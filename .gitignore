@@ -1,0 +1,14 @@
+.DS_Store
+.idea
+.vscode
+.temp/
+.rn_temp/
+npm-debug.log
+yarn-error.log
+.stylelintcache
+.eslintcache
+*.less.json
+node_modules/
+dist/
+deploy_versions/
+config/local.js
