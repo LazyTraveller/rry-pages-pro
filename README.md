@@ -1,12 +1,17 @@
-### 基于webpack构建的一个多页面react应用
-#### 启动
+### 基于webpack构建的一个多页面应用
+> webpack + ts + react
+
+
+#### 项目开始
+
 ```sh
+# 安装依赖
+yarn 
+
+# 启动项目
 yarn dev
-```
 
-### 打包
-
-```sh
+# 构建
 yarn build
 ```
 
